@@ -1,0 +1,6 @@
+{
+  "name": "FireGuard AI",
+  "description": "Real-time AI Fire Detection and Alert System for CCTV and USB cameras with PySide6 desktop architecture, Telegram alerts, and Arduino relay integration.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

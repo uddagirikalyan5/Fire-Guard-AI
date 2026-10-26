@@ -1,0 +1,24 @@
+# FireGuard AI - Production Dependencies
+# Compatible with Python 3.10 - 3.12 (Recommended: Python 3.11)
+
+# GUI Framework
+PySide6>=6.5.0
+
+# Computer Vision & Image Processing
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Deep Learning & Object Detection
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Hardware / Microcontroller Serial Communication
+pyserial>=3.5
+
+# HTTP Client for Telegram Bot API
+requests>=2.31.0
+
+# Sound / Alarm Audio Playback (Cross-platform)
+pygame>=2.5.0
